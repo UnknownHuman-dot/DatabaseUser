@@ -1,14 +1,37 @@
 [
   {
-    "owner": "62895365422687",
     "key": "PhantomVortex",
+    "bot": "6283197535246",
+    "owner": "62895365422687",
     "status": "active",
-    "expire": "2026-12-31"
+    "expire": "2025-12-30"
   },
   {
-    "owner": "6285710041030",
     "key": "Naufal",
+    "bot": "628561943401",
+    "owner": "6285710041030",
     "status": "active",
-    "expire": "2025-06-15"
+    "expire": "2025-06-16"
+  },
+  {
+    "key": "KOSONG",
+    "bot": "",
+    "owner": "",
+    "status": "active",
+    "expire": "2025-06-16"
+  },
+  {
+    "key": "KOSONG1",
+    "bot": "",
+    "owner": "",
+    "status": "active",
+    "expire": "2025-06-16"
+  }
+  {
+    "key": "KOSONG2",
+    "bot": "",
+    "owner": "",
+    "status": "active",
+    "expire": "2025-06-16"
   }
 ]
