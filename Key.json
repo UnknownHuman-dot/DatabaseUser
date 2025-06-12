@@ -12,26 +12,5 @@
     "owner": "6285710041030",
     "status": "active",
     "expire": "2025-06-16"
-  },
-  {
-    "key": "KOSONG",
-    "bot": "",
-    "owner": "",
-    "status": "active",
-    "expire": "2025-06-16"
-  },
-  {
-    "key": "KOSONG1",
-    "bot": "",
-    "owner": "",
-    "status": "active",
-    "expire": "2025-06-16"
-  },
-  {
-    "key": "KOSONG2",
-    "bot": "",
-    "owner": "",
-    "status": "active",
-    "expire": "2025-06-16"
-  },
+  }
 ]
