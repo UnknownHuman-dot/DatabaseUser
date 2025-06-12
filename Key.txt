@@ -26,12 +26,12 @@
     "owner": "",
     "status": "active",
     "expire": "2025-06-16"
-  }
+  },
   {
     "key": "KOSONG2",
     "bot": "",
     "owner": "",
     "status": "active",
     "expire": "2025-06-16"
-  }
+  },
 ]
