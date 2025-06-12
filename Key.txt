@@ -1,0 +1,14 @@
+[
+  {
+    "owner": "62895365422687",
+    "key": "PhantomVortex",
+    "status": "active",
+    "expire": "2026-12-31"
+  },
+  {
+    "owner": "6285710041030",
+    "key": "Naufal",
+    "status": "active",
+    "expire": "2025-06-15"
+  }
+]
